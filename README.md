@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+- ⚒️ I’m currently working on Ganymede Bio, a platform for building life science data infrastructure in the browser
+  - If that sounds fun to you (it is), [we're hiring](https://www.ganymede.bio/Careers)
+- 💬 Ask me about: Terraform, CI/CD, Kubernetes, GCP, Release Engineering, Quality & Validation
+-  📫 How to reach me: LinkedIn message or `LOCAL_PART=andy && echo $LOCAL_PART@ganymede.bio`
 
 <!--
 **carusooo/carusooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
